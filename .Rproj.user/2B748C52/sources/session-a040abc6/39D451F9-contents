@@ -24,3 +24,6 @@ clean_fav <- our_desserts %>%
 
 both_desserts <- inner_join(our_desserts, iconic_desserts)
 
+if (whatever = blue) {
+  cat(crayon::... )
+} else
