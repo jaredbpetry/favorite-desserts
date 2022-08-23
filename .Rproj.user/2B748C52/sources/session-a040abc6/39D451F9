@@ -3,9 +3,9 @@
     "path": "~/EDS214/EDS214_day2/R/desserts_match_jp.R",
     "project_path": "R/desserts_match_jp.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "4211009218",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1661288114397.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "25,0",
-        "scrollLine": "0"
+        "cursorPosition": "6,0",
+        "scrollLine": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1661288616,
+    "lastKnownWriteTime": 1661292380,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1661291344951,
+    "last_content_update": 1661292380389,
     "read_only": false,
     "read_only_alternatives": []
 }
